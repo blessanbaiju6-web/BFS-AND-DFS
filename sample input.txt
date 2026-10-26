@@ -1,0 +1,8 @@
+Enter number of files/directories: 5
+Enter number of connections: 4
+Enter connection (u v): 0 1
+Enter connection (u v): 0 2
+Enter connection (u v): 1 3
+Enter connection (u v): 2 4
+Enter starting node: 0
+Enter target file node: 4
